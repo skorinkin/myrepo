@@ -1,2 +1,2 @@
 name = input()
-print('Уходиии из DH, ' + name)
+print('Уходи из DH, ' + name)
